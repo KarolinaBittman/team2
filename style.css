@@ -78,7 +78,7 @@
 
   .flex-container {
     display: flex;
-    height: 2000px;
+    height: 850px;
     /*flex-direction: row;*/
   }
   
@@ -86,8 +86,8 @@
     flex: 1;
     background-image: url(https://images.unsplash.com/photo-1587614203976-365c74645e83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80);
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position:top left;
+    background-size: cover;
+   
     
   }
 
@@ -95,8 +95,7 @@
     flex: 1;
     background-image:url(https://images.unsplash.com/photo-1571721795195-a2ca2d3370a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80);
     background-repeat: no-repeat;
-    background-size: contain;
-    background-position: top right;
+    background-size: cover;
     
   }
     
