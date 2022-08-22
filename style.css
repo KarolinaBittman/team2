@@ -84,18 +84,20 @@
   
   .image1 {
     flex: 1;
-    background-image: url(https://images.unsplash.com/photo-1587614203976-365c74645e83?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=987&q=80);
+    background-image: url(./pics/imageindex2.jpg) ;
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 0.6;
    
     
   }
 
   .image2 {
     flex: 1;
-    background-image:url(https://images.unsplash.com/photo-1571721795195-a2ca2d3370a9?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1064&q=80);
+    background-image:url(./pics/imageindex1.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+    opacity: 0.6;
     
   }
     
